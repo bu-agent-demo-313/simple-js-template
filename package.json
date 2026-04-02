@@ -1,0 +1,13 @@
+{
+    "name": "simple-js-template",
+    "version": "1.0.0",
+    "description": "A simple JavaScript project template with sample code",
+    "main": "src/index.js",
+    "scripts": {
+          "start": "node src/index.js",
+          "test": "node src/utils.test.js"
+    },
+    "keywords": ["javascript", "template", "starter"],
+    "author": "bu-agent-demo-313",
+    "license": "MIT"
+}
